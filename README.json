@@ -267,7 +267,7 @@
             "last_commit": "2026-07-22T04:00:51Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2829
+            "stars": 2830
           }
         }
       ],
@@ -288,7 +288,7 @@
             "last_commit": "2024-09-03T09:13:38Z",
             "owner": "iudicium",
             "repo": "pryingdeep",
-            "stars": 608
+            "stars": 609
           }
         }
       ],
@@ -414,7 +414,7 @@
             "last_commit": "2024-12-05T18:55:57Z",
             "owner": "CScorza",
             "repo": "OSINT-FORENSICS-MOBILE",
-            "stars": 698
+            "stars": 699
           }
         }
       ],
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 468957086,
             "language": "Python",
-            "last_commit": "2026-08-24T13:51:21Z",
+            "last_commit": "2026-08-24T14:22:53Z",
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10493
+            "stars": 10494
           }
         }
       ],
@@ -897,7 +897,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7830
+            "stars": 7831
           }
         }
       ],
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:37.314Z",
+    "last_updated": "2026-08-24T14:50:21.960Z",
     "original_repository": "danieldurnea/FBI-tools",
     "original_repository_id": 441929229,
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",

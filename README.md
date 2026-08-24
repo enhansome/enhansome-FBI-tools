@@ -91,7 +91,7 @@ Partly free.
 
 ### Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs
 
-<https://github.com/Alfredredbird/alfred> ⭐ 2,829 | 🐛 1 | 🌐 Python | 📅 2026-07-22
+<https://github.com/Alfredredbird/alfred> ⭐ 2,830 | 🐛 1 | 🌐 Python | 📅 2026-07-22
 
 ### Prying Deep - An OSINT tool to collect intelligence on the dark web.
 
@@ -148,7 +148,7 @@ Features
 
 ### A collection of tools (+ some theory) for cell phone related investigations
 
-<https://github.com/CScorza/OSINT-FORENSICS-MOBILE> ⭐ 698 | 🐛 6 | 📅 2024-12-05
+<https://github.com/CScorza/OSINT-FORENSICS-MOBILE> ⭐ 699 | 🐛 6 | 📅 2024-12-05
 
 ### Forensic Copy Acquisition and Analysis Tools
 
@@ -222,7 +222,7 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### OSINT automation for hackers.
 
-<https://github.com/blacklanternsecurity/bbot> ⭐ 10,493 | 🐛 45 | 🌐 Python | 📅 2026-08-24
+<https://github.com/blacklanternsecurity/bbot> ⭐ 10,494 | 🐛 45 | 🌐 Python | 📅 2026-08-24
 
 ### Citizen Intelligence Agency, open-source intelligence (OSINT) project
 
@@ -250,7 +250,7 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### An OSINT tool to search for accounts by username in social networks
 
-<https://github.com/p1ngul1n0/blackbird> ⭐ 7,830 | 🐛 19 | 🌐 Python | 📅 2025-07-13
+<https://github.com/p1ngul1n0/blackbird> ⭐ 7,831 | 🐛 19 | 🌐 Python | 📅 2025-07-13
 
 ### Ransomware groups posts
 
@@ -409,7 +409,7 @@ Secure ELF parsing/loading library for forensics reconstruction of malware, and 
 
 ### Toutatis
 
-Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. : <https://github.com/megadose/toutatis> ⭐ 4,231 | 🐛 334 | 🌐 Python | 📅 2024-12-05
+Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. : <https://github.com/megadose/toutatis> ⭐ 4,232 | 🐛 334 | 🌐 Python | 📅 2024-12-05
 
 ### Octosuite
 
@@ -445,7 +445,7 @@ Oblivion is a tool focused in real time monitoring of new data leaks, notifying 
 
 ### Mr.Holmes
 
-🔍 A Complete Osint Tool : <https://github.com/Lucksi/Mr.Holmes> ⭐ 4,099 | 🐛 43 | 🌐 Python | 📅 2026-02-21
+🔍 A Complete Osint Tool : <https://github.com/Lucksi/Mr.Holmes> ⭐ 4,101 | 🐛 43 | 🌐 Python | 📅 2026-02-21
 
 ### AVOSINT
 
@@ -483,7 +483,7 @@ Proof of concept for abusing Telegram's "People Near Me" feature and tracking pe
 Discover the location of nearby Telegram users 📡🌍 : <https://github.com/tejado/telegram-nearby-map> ⭐ 1,190 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 
 Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-<https://github.com/megadose/holehe> ⭐ 14,113 | 🐛 114 | 🌐 Python | 📅 2024-09-10
+<https://github.com/megadose/holehe> ⭐ 14,120 | 🐛 114 | 🌐 Python | 📅 2024-09-10
 
 ### Holehe Maltego Transform
 
@@ -539,7 +539,7 @@ Track users across social media platform
 ### Osint stuff tool collection
 
 A collection of several hundred online tools for OSINT
-<https://github.com/cipher387/osint_stuff_tool_collection> ⭐ 8,722 | 🐛 87 | 🌐 HTML | 📅 2026-05-12
+<https://github.com/cipher387/osint_stuff_tool_collection> ⭐ 8,723 | 🐛 87 | 🌐 HTML | 📅 2026-05-12
 
 ### Teler
 
