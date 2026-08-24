@@ -1,7 +1,1226 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔗 https://github.com/Stuub/SquatSquasher",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 835261624,
+            "language": "Python",
+            "last_commit": "2024-07-30T07:45:56Z",
+            "owner": "Stuub",
+            "repo": "SquatSquasher",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/yogeshojha/rengine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260907244,
+            "language": "HTML",
+            "last_commit": "2026-07-13T02:47:39Z",
+            "owner": "yogeshojha",
+            "repo": "rengine",
+            "stars": 8792
+          }
+        }
+      ],
+      "title": "reNgine: The Ultimate Web Reconnaissance & Vulnerability Scanner 🚀"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Lissy93/web-check",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658364446,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:01:27Z",
+            "owner": "lissy93",
+            "repo": "web-check",
+            "stars": 34584
+          }
+        }
+      ],
+      "title": "🕵️‍♂️ All-in-one OSINT tool for analysing any website"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/dev-lu/osint_toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584471036,
+            "language": "JavaScript",
+            "last_commit": "2026-04-28T18:34:43Z",
+            "owner": "dev-lu",
+            "repo": "osint_toolkit",
+            "stars": 936
+          }
+        }
+      ],
+      "title": "A full stack web application that combines many tools and services for security analysts into a single tool."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/HackUnderway/UsernameSearchOSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 899815120,
+            "language": "Python",
+            "last_commit": "2026-02-03T03:09:17Z",
+            "owner": "HackUnderway",
+            "repo": "UsernameSearchOSINT",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Tool made in Flask to search for users on different platforms, to make OSINT. 🕵🏽‍♂️"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👁 https://github.com/HackUnderway/OsintNum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 889737780,
+            "language": "Python",
+            "last_commit": "2026-06-08T05:07:48Z",
+            "owner": "HackUnderway",
+            "repo": "OsintNum",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Tool to make OSINT to phone numbers with the help of APILayer, using its api together with Number Verification API. 🕵🏽‍♂️"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📱https://github.com/HackUnderway/WhatsOSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 890723095,
+            "language": "Python",
+            "last_commit": "2026-08-15T22:22:59Z",
+            "owner": "HackUnderway",
+            "repo": "WhatsOSINT",
+            "stars": 332
+          }
+        }
+      ],
+      "title": "View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/LinaYorda/OSINTko",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708412665,
+            "language": "JavaScript",
+            "last_commit": "2023-11-02T17:03:12Z",
+            "owner": "LinaYorda",
+            "repo": "OSINTko",
+            "stars": 305
+          }
+        }
+      ],
+      "title": "OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/cyberpunkOS/CyberPunkOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683841659,
+            "language": "Python",
+            "last_commit": "2023-09-02T22:05:52Z",
+            "owner": "cyberpunkOS",
+            "repo": "CyberPunkOS",
+            "stars": 201
+          }
+        }
+      ],
+      "title": "CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/s0md3v/roop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 655105480,
+            "language": "Python",
+            "last_commit": "2026-03-13T09:30:18Z",
+            "owner": "s0md3v",
+            "repo": "roop",
+            "stars": 3559
+          }
+        }
+      ],
+      "title": "This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/cipher387/linux-for-OSINT-21-day",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639805792,
+            "language": "HTML",
+            "last_commit": "2026-01-06T08:15:11Z",
+            "owner": "cipher387",
+            "repo": "linux-for-OSINT-21-day",
+            "stars": 601
+          }
+        }
+      ],
+      "title": "Linux for OSINT. 21-day"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/cipher387/python-for-OSINT-21-days",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 619299823,
+            "language": "Python",
+            "last_commit": "2026-01-06T08:16:28Z",
+            "owner": "cipher387",
+            "repo": "python-for-OSINT-21-days",
+            "stars": 1119
+          }
+        }
+      ],
+      "title": "Python for OSINT. 21-day"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Alfredredbird/alfred",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681836129,
+            "language": "Python",
+            "last_commit": "2026-07-22T04:00:51Z",
+            "owner": "Alfredredbird",
+            "repo": "tookie-osint",
+            "stars": 2829
+          }
+        }
+      ],
+      "title": "Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/iudicium/pryingdeep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 698935684,
+            "language": "Go",
+            "last_commit": "2024-09-03T09:13:38Z",
+            "owner": "iudicium",
+            "repo": "pryingdeep",
+            "stars": 608
+          }
+        }
+      ],
+      "title": "Prying Deep - An OSINT tool to collect intelligence on the dark web."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/AnonCatalyst/Ominis-Osint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702292407,
+            "language": "Python",
+            "last_commit": "2026-08-23T01:47:10Z",
+            "owner": "AnonCatalyst",
+            "repo": "Ominis-OSINT",
+            "stars": 611
+          }
+        }
+      ],
+      "title": "This Python script is an OSINT (Open Source Intelligence) tool called \"Ominis OSINT - Information Gathering.\" It performs online information gathering by querying Google for search results related to a user-inputted query."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔗https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643174512,
+            "language": null,
+            "last_commit": "2026-01-30T14:43:22Z",
+            "owner": "osintambition",
+            "repo": "Social-Media-OSINT-Tools-Collection",
+            "stars": 1947
+          }
+        }
+      ],
+      "title": "Social Media #OSINT Tools Collection 👨🏽‍💻"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/shadawck/awesome-anti-forensic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188878037,
+            "language": "HTML",
+            "last_commit": "2023-11-27T11:25:55Z",
+            "owner": "shadawck",
+            "repo": "awesome-anti-forensic",
+            "stars": 1032
+          }
+        }
+      ],
+      "title": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/dev-lu/osint_toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584471036,
+            "language": "JavaScript",
+            "last_commit": "2026-04-28T18:34:43Z",
+            "owner": "dev-lu",
+            "repo": "osint_toolkit",
+            "stars": 936
+          }
+        }
+      ],
+      "title": "OSINT Toolkit is a full-stack web application designed to assist security analysts in their work"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/AvillaDaniel/AvillaForensics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476905908,
+            "language": "C#",
+            "last_commit": "2026-04-04T18:02:34Z",
+            "owner": "AvillaDaniel",
+            "repo": "AvillaForensics",
+            "stars": 1116
+          }
+        }
+      ],
+      "title": "Avilla Forensics 3.0 / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/CScorza/OSINT-FORENSICS-MOBILE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538186461,
+            "language": null,
+            "last_commit": "2024-12-05T18:55:57Z",
+            "owner": "CScorza",
+            "repo": "OSINT-FORENSICS-MOBILE",
+            "stars": 698
+          }
+        }
+      ],
+      "title": "A collection of tools (+ some theory) for cell phone related investigations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/CScorza/Analisi-Digital-Forense",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 575322431,
+            "language": null,
+            "last_commit": "2025-08-29T14:14:46Z",
+            "owner": "CScorza",
+            "repo": "Analisi-Digital-Forense",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "Forensic Copy Acquisition and Analysis Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/CScorza/EstensioniChromeOSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527870740,
+            "language": null,
+            "last_commit": "2024-03-21T18:24:05Z",
+            "owner": "CScorza",
+            "repo": "EstensioniChromeOSINT",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Useful Extensions for OSINT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/OhShINT/ohshint.gitbook.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 421191660,
+            "language": "HTML",
+            "last_commit": "2024-08-01T23:54:57Z",
+            "owner": "OhShINT",
+            "repo": "ohshint.gitbook.io",
+            "stars": 963
+          }
+        }
+      ],
+      "title": "So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/cloudtracer/ThreatPinchLookup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69464197,
+            "language": "HTML",
+            "last_commit": "2018-09-08T14:07:42Z",
+            "owner": "cloudtracer",
+            "repo": "ThreatPinchLookup",
+            "stars": 384
+          }
+        }
+      ],
+      "title": "Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/MetaOSINT/MetaOSINT.github.io",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 372363324,
+            "language": "HTML",
+            "last_commit": "2024-07-30T15:55:07Z",
+            "owner": "MetaOSINT",
+            "repo": "MetaOSINT.github.io",
+            "stars": 844
+          }
+        }
+      ],
+      "title": "A tool to quickly identify relevant, publicly-available open source intelligence (\"OSINT\") tools and resources, saving valuable time during investigations, research, and analysis."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501807920,
+            "language": "Python",
+            "last_commit": "2023-08-23T00:28:40Z",
+            "owner": "C3n7ral051nt4g3ncy",
+            "repo": "Prot1ntelligence",
+            "stars": 187
+          }
+        }
+      ],
+      "title": "Protintelligence is a Python script for the Cyber Community. It also uses NeutrOSINT made by Kr0wZ. Will help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys, Digital Footprints left by the ProtonMail user on the Clear and Dark Web"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530426484,
+            "language": null,
+            "last_commit": "2023-05-15T22:10:06Z",
+            "owner": "C3n7ral051nt4g3ncy",
+            "repo": "OSINT_Inception-links",
+            "stars": 217
+          }
+        }
+      ],
+      "title": "Current links from the OSINT Inception start-me project"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Bevigil/BeVigil-OSINT-CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496126166,
+            "language": "Python",
+            "last_commit": "2023-09-18T06:51:59Z",
+            "owner": "Bevigil",
+            "repo": "BeVigil-OSINT-CLI",
+            "stars": 144
+          }
+        }
+      ],
+      "title": "Bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 528185875,
+            "language": null,
+            "last_commit": "2023-02-04T09:25:12Z",
+            "owner": "C3n7ral051nt4g3ncy",
+            "repo": "cURL_for_OSINT",
+            "stars": 260
+          }
+        }
+      ],
+      "title": "cURL Tool Usage for OSINT (Open-Source Intelligence)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/qeeqbox/social-analyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317319347,
+            "language": "JavaScript",
+            "last_commit": "2026-01-12T21:50:25Z",
+            "owner": "qeeqbox",
+            "repo": "social-analyzer",
+            "stars": 23817
+          }
+        }
+      ],
+      "title": "Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \\ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/CScorza/DistroForensics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527888345,
+            "language": null,
+            "last_commit": "2024-05-21T15:38:07Z",
+            "owner": "CScorza",
+            "repo": "DistroForensics",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Complete list of sites where you can download the Distros that may be useful to those who are about to or are already in an advanced state in the context of OSINT, Penetration Testing, Digital Forensics and therefore also of Information Security."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/LinaYorda/OSINTtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476416366,
+            "language": null,
+            "last_commit": "2024-01-01T17:48:46Z",
+            "owner": "LinaYorda",
+            "repo": "OSINTtools",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/den4uk/andriller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227929809,
+            "language": "Python",
+            "last_commit": "2022-06-27T22:00:44Z",
+            "owner": "den4uk",
+            "repo": "andriller",
+            "stars": 1598
+          }
+        }
+      ],
+      "title": "📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/m8sec/CrossLinked",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187035044,
+            "language": "Python",
+            "last_commit": "2024-11-26T12:52:16Z",
+            "owner": "m8sec",
+            "repo": "CrossLinked",
+            "stars": 1580
+          }
+        }
+      ],
+      "title": "LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/kennbroorg/iKy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161818242,
+            "language": "Python",
+            "last_commit": "2026-08-05T04:02:59Z",
+            "owner": "kennbroorg",
+            "repo": "iKy",
+            "stars": 970
+          }
+        }
+      ],
+      "title": "OSINT ADVANCING YOUR EMAIL INVESTIGATIONS USING IKY"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/blacklanternsecurity/bbot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468957086,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:51:21Z",
+            "owner": "blacklanternsecurity",
+            "repo": "bbot",
+            "stars": 10493
+          }
+        }
+      ],
+      "title": "OSINT automation for hackers."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Hack23/cia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40047080,
+            "language": "Java",
+            "last_commit": "2026-08-23T23:14:17Z",
+            "owner": "Hack23",
+            "repo": "cia",
+            "stars": 234
+          }
+        }
+      ],
+      "title": "Citizen Intelligence Agency, open-source intelligence (OSINT) project"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/jfarley248/MEAT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255400766,
+            "language": "Python",
+            "last_commit": "2020-05-21T01:53:03Z",
+            "owner": "jfarley248",
+            "repo": "MEAT",
+            "stars": 168
+          }
+        }
+      ],
+      "title": "This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/QXJ6YW4/SimpleImager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 389877344,
+            "language": "Batchfile",
+            "last_commit": "2026-07-13T20:04:50Z",
+            "owner": "QXJ6YW4",
+            "repo": "SimpleImager",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Simple Imager has been created for performing live acquisition of Windows based systems in a forensically sound manner"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/SirCryptic/autoexif",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 264575176,
+            "language": "Python",
+            "last_commit": "2025-04-23T12:43:42Z",
+            "owner": "SirCryptic",
+            "repo": "autoexif",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Autoexif want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs, -note: this is now merged into snd and phisherprice"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/thedfirofficer/sabonis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438899301,
+            "language": "Python",
+            "last_commit": "2022-03-03T20:00:36Z",
+            "owner": "jupyterj0nes",
+            "repo": "sabonis",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Sabonis, a Digital Forensics and Incident Response pivoting tool"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/vadimkantorov/natudump",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534241441,
+            "language": "Python",
+            "last_commit": "2023-05-27T21:09:42Z",
+            "owner": "vadimkantorov",
+            "repo": "natudump",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Scraping LegiFrance naturalisation decrees for fun and OSINT profit"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/p1ngul1n0/blackbird",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489384246,
+            "language": "Python",
+            "last_commit": "2025-07-13T13:48:19Z",
+            "owner": "p1ngul1n0",
+            "repo": "blackbird",
+            "stars": 7830
+          }
+        }
+      ],
+      "title": "An OSINT tool to search for accounts by username in social networks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/privtools/ransomposts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504592758,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:33:02Z",
+            "owner": "privtools",
+            "repo": "ransomposts",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Ransomware groups posts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/jordanwildon/Telepathy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 448953965,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:26:37Z",
+            "owner": "prose-intelligence-ltd",
+            "repo": "Telepathy-Community",
+            "stars": 1235
+          }
+        }
+      ],
+      "title": "Public release of Telepathy, an OSINT toolkit for investigating Telegram chats."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/MustafaAP/pinosint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538489816,
+            "language": "Go",
+            "last_commit": "2023-08-30T09:58:31Z",
+            "owner": "vvspower",
+            "repo": "pinosin",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "An Open Source Intelligence Framework to investigate and keep track of the investigation of a certain individual"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/narkopolo/fb_friend_list_scraper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 430327577,
+            "language": "Python",
+            "last_commit": "2022-12-15T15:51:31Z",
+            "owner": "n0kovo",
+            "repo": "fb_friend_list_scraper",
+            "stars": 331
+          }
+        }
+      ],
+      "title": "OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/mxrch/GHunt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300592907,
+            "language": "Python",
+            "last_commit": "2026-04-10T02:29:16Z",
+            "owner": "mxrch",
+            "repo": "GHunt",
+            "stars": 19407
+          }
+        }
+      ],
+      "title": "🕵️‍♂️ Offensive Google framework."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Vault-Cyber-Security/osint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194403770,
+            "language": "Shell",
+            "last_commit": "2022-01-02T13:48:34Z",
+            "owner": "qbitseclabs",
+            "repo": "osint",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Docker image for osint"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/HarryLudemann/Ngoto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 420812734,
+            "language": "Python",
+            "last_commit": "2023-03-03T04:22:52Z",
+            "owner": "HarryLudemann",
+            "repo": "Ngoto",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Python Pentester Tool - easily add/create plugins, available in command line tool and module."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/aydinnyunus/exifLooter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 519515664,
+            "language": "Go",
+            "last_commit": "2026-01-16T16:34:17Z",
+            "owner": "aydinnyunus",
+            "repo": "exifLooter",
+            "stars": 496
+          }
+        }
+      ],
+      "title": "Exif Looter:-- ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/AzizKpln/Moriarty-Project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262434885,
+            "language": "Python",
+            "last_commit": "2024-07-13T06:27:10Z",
+            "owner": "AzizKpln",
+            "repo": "Moriarty-Project",
+            "stars": 2073
+          }
+        }
+      ],
+      "title": "This tool gives information about the phone number that you entered."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/romz0mbie/OSINT-Lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 322397344,
+            "language": null,
+            "last_commit": "2020-12-17T19:58:07Z",
+            "owner": "romz0mbie",
+            "repo": "OSINT-Lists",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "List of OSINT resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/m3n0sd0n4ld/GooFuzz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504599140,
+            "language": "Shell",
+            "last_commit": "2025-12-21T07:24:46Z",
+            "owner": "m3n0sd0n4ld",
+            "repo": "GooFuzz",
+            "stars": 1585
+          }
+        }
+      ],
+      "title": "GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking)."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/HSNHK/Computer-forensics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376357319,
+            "language": null,
+            "last_commit": "2023-02-24T08:44:05Z",
+            "owner": "xiosec",
+            "repo": "Computer-forensics",
+            "stars": 171
+          }
+        }
+      ],
+      "title": "The best tools and resources for forensic analysis"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/smicallef/spiderfoot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4165675,
+            "language": "Python",
+            "last_commit": "2026-04-13T19:43:06Z",
+            "owner": "smicallef",
+            "repo": "spiderfoot",
+            "stars": 21389
+          }
+        }
+      ],
+      "title": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/megadose/quidam-maltego",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266340645,
+            "language": "Python",
+            "last_commit": "2020-09-19T13:36:48Z",
+            "owner": "megadose",
+            "repo": "quidam-maltego",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Quidam maltego transform"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/megadose/holehe-maltego",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275194027,
+            "language": "Python",
+            "last_commit": "2024-05-13T21:55:41Z",
+            "owner": "megadose",
+            "repo": "holehe-maltego",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "Holehe Maltego Transform"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:57:14.167Z",
+    "last_updated": "2026-08-24T14:03:37.314Z",
     "original_repository": "danieldurnea/FBI-tools",
     "original_repository_id": 441929229,
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",
