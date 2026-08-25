@@ -54,10 +54,10 @@
             "archived": false,
             "id": 658364446,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T09:01:27Z",
+            "last_commit": "2026-08-25T09:47:59Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34588
+            "stars": 34593
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-15T22:22:59Z",
             "owner": "HackUnderway",
             "repo": "WhatsOSINT",
-            "stars": 334
+            "stars": 335
           }
         }
       ],
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-22T04:00:51Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2833
+            "stars": 2836
           }
         }
       ],
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-23T01:47:10Z",
             "owner": "AnonCatalyst",
             "repo": "Ominis-OSINT",
-            "stars": 611
+            "stars": 612
           }
         }
       ],
@@ -330,7 +330,7 @@
             "last_commit": "2026-01-30T14:43:22Z",
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1949
+            "stars": 1950
           }
         }
       ],
@@ -477,7 +477,7 @@
             "last_commit": "2024-08-01T23:54:57Z",
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 963
+            "stars": 964
           }
         }
       ],
@@ -624,7 +624,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23820
+            "stars": 23823
           }
         }
       ],
@@ -768,7 +768,7 @@
             "archived": false,
             "id": 40047080,
             "language": "Java",
-            "last_commit": "2026-08-24T21:49:07Z",
+            "last_commit": "2026-08-25T12:58:01Z",
             "owner": "Hack23",
             "repo": "cia",
             "stars": 234
@@ -897,7 +897,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7842
+            "stars": 7845
           }
         }
       ],
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 504592758,
             "language": "Python",
-            "last_commit": "2026-08-24T19:20:37Z",
+            "last_commit": "2026-08-25T13:30:52Z",
             "owner": "privtools",
             "repo": "ransomposts",
             "stars": 46
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19415
+            "stars": 19418
           }
         }
       ],
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21401
+            "stars": 21410
           }
         }
       ],
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:08.908Z",
+    "last_updated": "2026-08-25T14:24:13.569Z",
     "original_repository": "danieldurnea/FBI-tools",
     "original_repository_id": 441929229,
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",
