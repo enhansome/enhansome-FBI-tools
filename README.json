@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/yogeshojha/rengine",
+          "title": "yogeshojha/rengine",
           "description": null,
           "children": [],
           "repo_info": {
@@ -47,7 +47,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Lissy93/web-check",
+          "title": "lissy93/web-check",
           "description": null,
           "children": [],
           "repo_info": {
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-11T09:01:27Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34584
+            "stars": 34588
           }
         }
       ],
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/dev-lu/osint_toolkit",
+          "title": "dev-lu/osint_toolkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/HackUnderway/UsernameSearchOSINT",
+          "title": "HackUnderway/UsernameSearchOSINT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -120,7 +120,7 @@
             "last_commit": "2026-06-08T05:07:48Z",
             "owner": "HackUnderway",
             "repo": "OsintNum",
-            "stars": 112
+            "stars": 114
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-15T22:22:59Z",
             "owner": "HackUnderway",
             "repo": "WhatsOSINT",
-            "stars": 332
+            "stars": 334
           }
         }
       ],
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/LinaYorda/OSINTko",
+          "title": "LinaYorda/OSINTko",
           "description": null,
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/cyberpunkOS/CyberPunkOS",
+          "title": "cyberpunkOS/CyberPunkOS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -194,7 +194,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/s0md3v/roop",
+          "title": "s0md3v/roop",
           "description": null,
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/cipher387/linux-for-OSINT-21-day",
+          "title": "cipher387/linux-for-OSINT-21-day",
           "description": null,
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/cipher387/python-for-OSINT-21-days",
+          "title": "cipher387/python-for-OSINT-21-days",
           "description": null,
           "children": [],
           "repo_info": {
@@ -257,7 +257,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Alfredredbird/alfred",
+          "title": "Alfredredbird/tookie-osint",
           "description": null,
           "children": [],
           "repo_info": {
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-22T04:00:51Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2830
+            "stars": 2833
           }
         }
       ],
@@ -278,7 +278,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/iudicium/pryingdeep",
+          "title": "iudicium/pryingdeep",
           "description": null,
           "children": [],
           "repo_info": {
@@ -288,7 +288,7 @@
             "last_commit": "2024-09-03T09:13:38Z",
             "owner": "iudicium",
             "repo": "pryingdeep",
-            "stars": 609
+            "stars": 610
           }
         }
       ],
@@ -299,7 +299,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/AnonCatalyst/Ominis-Osint",
+          "title": "AnonCatalyst/Ominis-OSINT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -330,7 +330,7 @@
             "last_commit": "2026-01-30T14:43:22Z",
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1947
+            "stars": 1949
           }
         }
       ],
@@ -341,7 +341,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/shadawck/awesome-anti-forensic",
+          "title": "shadawck/awesome-anti-forensic",
           "description": null,
           "children": [],
           "repo_info": {
@@ -362,7 +362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/dev-lu/osint_toolkit",
+          "title": "dev-lu/osint_toolkit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -383,7 +383,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/AvillaDaniel/AvillaForensics",
+          "title": "AvillaDaniel/AvillaForensics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -404,7 +404,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/CScorza/OSINT-FORENSICS-MOBILE",
+          "title": "CScorza/OSINT-FORENSICS-MOBILE",
           "description": null,
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/CScorza/Analisi-Digital-Forense",
+          "title": "CScorza/Analisi-Digital-Forense",
           "description": null,
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/CScorza/EstensioniChromeOSINT",
+          "title": "CScorza/EstensioniChromeOSINT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -467,7 +467,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/OhShINT/ohshint.gitbook.io",
+          "title": "OhShINT/ohshint.gitbook.io",
           "description": null,
           "children": [],
           "repo_info": {
@@ -488,7 +488,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/cloudtracer/ThreatPinchLookup",
+          "title": "cloudtracer/ThreatPinchLookup",
           "description": null,
           "children": [],
           "repo_info": {
@@ -509,7 +509,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/MetaOSINT/MetaOSINT.github.io",
+          "title": "MetaOSINT/MetaOSINT.github.io",
           "description": null,
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence",
+          "title": "C3n7ral051nt4g3ncy/Prot1ntelligence",
           "description": null,
           "children": [],
           "repo_info": {
@@ -551,7 +551,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links",
+          "title": "C3n7ral051nt4g3ncy/OSINT_Inception-links",
           "description": null,
           "children": [],
           "repo_info": {
@@ -561,7 +561,7 @@
             "last_commit": "2023-05-15T22:10:06Z",
             "owner": "C3n7ral051nt4g3ncy",
             "repo": "OSINT_Inception-links",
-            "stars": 217
+            "stars": 219
           }
         }
       ],
@@ -572,7 +572,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Bevigil/BeVigil-OSINT-CLI",
+          "title": "Bevigil/BeVigil-OSINT-CLI",
           "description": null,
           "children": [],
           "repo_info": {
@@ -593,7 +593,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT",
+          "title": "C3n7ral051nt4g3ncy/cURL_for_OSINT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -614,7 +614,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/qeeqbox/social-analyzer",
+          "title": "qeeqbox/social-analyzer",
           "description": null,
           "children": [],
           "repo_info": {
@@ -624,7 +624,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23817
+            "stars": 23820
           }
         }
       ],
@@ -635,7 +635,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/CScorza/DistroForensics",
+          "title": "CScorza/DistroForensics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -656,7 +656,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/LinaYorda/OSINTtools",
+          "title": "LinaYorda/OSINTtools",
           "description": null,
           "children": [],
           "repo_info": {
@@ -677,7 +677,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/den4uk/andriller",
+          "title": "den4uk/andriller",
           "description": null,
           "children": [],
           "repo_info": {
@@ -698,7 +698,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/m8sec/CrossLinked",
+          "title": "m8sec/CrossLinked",
           "description": null,
           "children": [],
           "repo_info": {
@@ -708,7 +708,7 @@
             "last_commit": "2024-11-26T12:52:16Z",
             "owner": "m8sec",
             "repo": "CrossLinked",
-            "stars": 1580
+            "stars": 1581
           }
         }
       ],
@@ -719,7 +719,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/kennbroorg/iKy",
+          "title": "kennbroorg/iKy",
           "description": null,
           "children": [],
           "repo_info": {
@@ -740,17 +740,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/blacklanternsecurity/bbot",
+          "title": "blacklanternsecurity/bbot",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 468957086,
             "language": "Python",
-            "last_commit": "2026-08-24T14:22:53Z",
+            "last_commit": "2026-08-25T00:16:48Z",
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10494
+            "stars": 10501
           }
         }
       ],
@@ -761,14 +761,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Hack23/cia",
+          "title": "Hack23/cia",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 40047080,
             "language": "Java",
-            "last_commit": "2026-08-23T23:14:17Z",
+            "last_commit": "2026-08-24T21:49:07Z",
             "owner": "Hack23",
             "repo": "cia",
             "stars": 234
@@ -782,7 +782,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/jfarley248/MEAT",
+          "title": "jfarley248/MEAT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -803,7 +803,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/QXJ6YW4/SimpleImager",
+          "title": "QXJ6YW4/SimpleImager",
           "description": null,
           "children": [],
           "repo_info": {
@@ -824,7 +824,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/SirCryptic/autoexif",
+          "title": "SirCryptic/autoexif",
           "description": null,
           "children": [],
           "repo_info": {
@@ -845,7 +845,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/thedfirofficer/sabonis",
+          "title": "jupyterj0nes/sabonis",
           "description": null,
           "children": [],
           "repo_info": {
@@ -866,7 +866,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/vadimkantorov/natudump",
+          "title": "vadimkantorov/natudump",
           "description": null,
           "children": [],
           "repo_info": {
@@ -887,7 +887,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/p1ngul1n0/blackbird",
+          "title": "p1ngul1n0/blackbird",
           "description": null,
           "children": [],
           "repo_info": {
@@ -897,7 +897,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7831
+            "stars": 7842
           }
         }
       ],
@@ -908,14 +908,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/privtools/ransomposts",
+          "title": "privtools/ransomposts",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 504592758,
             "language": "Python",
-            "last_commit": "2026-08-24T13:33:02Z",
+            "last_commit": "2026-08-24T19:20:37Z",
             "owner": "privtools",
             "repo": "ransomposts",
             "stars": 46
@@ -929,7 +929,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/jordanwildon/Telepathy",
+          "title": "prose-intelligence-ltd/Telepathy-Community",
           "description": null,
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/MustafaAP/pinosint",
+          "title": "vvspower/pinosin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -971,7 +971,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/narkopolo/fb_friend_list_scraper",
+          "title": "n0kovo/fb_friend_list_scraper",
           "description": null,
           "children": [],
           "repo_info": {
@@ -992,7 +992,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mxrch/GHunt",
+          "title": "mxrch/GHunt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19407
+            "stars": 19415
           }
         }
       ],
@@ -1013,7 +1013,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Vault-Cyber-Security/osint",
+          "title": "qbitseclabs/osint",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1034,7 +1034,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/HarryLudemann/Ngoto",
+          "title": "HarryLudemann/Ngoto",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1055,7 +1055,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/aydinnyunus/exifLooter",
+          "title": "aydinnyunus/exifLooter",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1076,7 +1076,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/AzizKpln/Moriarty-Project",
+          "title": "AzizKpln/Moriarty-Project",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1097,7 +1097,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/romz0mbie/OSINT-Lists",
+          "title": "romz0mbie/OSINT-Lists",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1118,7 +1118,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/m3n0sd0n4ld/GooFuzz",
+          "title": "m3n0sd0n4ld/GooFuzz",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1139,7 +1139,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/HSNHK/Computer-forensics",
+          "title": "xiosec/Computer-forensics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1160,7 +1160,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/smicallef/spiderfoot",
+          "title": "smicallef/spiderfoot",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21389
+            "stars": 21401
           }
         }
       ],
@@ -1181,7 +1181,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/megadose/quidam-maltego",
+          "title": "megadose/quidam-maltego",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1202,7 +1202,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/megadose/holehe-maltego",
+          "title": "megadose/holehe-maltego",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:21.960Z",
+    "last_updated": "2026-08-25T05:57:08.908Z",
     "original_repository": "danieldurnea/FBI-tools",
     "original_repository_id": 441929229,
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",
