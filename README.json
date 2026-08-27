@@ -54,10 +54,10 @@
             "archived": false,
             "id": 658364446,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:47:59Z",
+            "last_commit": "2026-08-27T22:53:35Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34610
+            "stars": 34611
           }
         }
       ],
@@ -78,7 +78,7 @@
             "last_commit": "2026-04-28T18:34:43Z",
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 936
+            "stars": 937
           }
         }
       ],
@@ -225,7 +225,7 @@
             "last_commit": "2026-01-06T08:15:11Z",
             "owner": "cipher387",
             "repo": "linux-for-OSINT-21-day",
-            "stars": 601
+            "stars": 602
           }
         }
       ],
@@ -246,7 +246,7 @@
             "last_commit": "2026-01-06T08:16:28Z",
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1120
+            "stars": 1121
           }
         }
       ],
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-22T04:00:51Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2854
+            "stars": 2856
           }
         }
       ],
@@ -372,7 +372,7 @@
             "last_commit": "2026-04-28T18:34:43Z",
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 936
+            "stars": 937
           }
         }
       ],
@@ -393,7 +393,7 @@
             "last_commit": "2026-04-04T18:02:34Z",
             "owner": "AvillaDaniel",
             "repo": "AvillaForensics",
-            "stars": 1116
+            "stars": 1115
           }
         }
       ],
@@ -624,7 +624,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23847
+            "stars": 23855
           }
         }
       ],
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 468957086,
             "language": "Python",
-            "last_commit": "2026-08-27T04:13:58Z",
+            "last_commit": "2026-08-27T22:10:55Z",
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10508
+            "stars": 10511
           }
         }
       ],
@@ -768,7 +768,7 @@
             "archived": false,
             "id": 40047080,
             "language": "Java",
-            "last_commit": "2026-08-27T09:44:42Z",
+            "last_commit": "2026-08-27T14:49:05Z",
             "owner": "Hack23",
             "repo": "cia",
             "stars": 234
@@ -897,7 +897,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7867
+            "stars": 7868
           }
         }
       ],
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 504592758,
             "language": "Python",
-            "last_commit": "2026-08-26T21:09:41Z",
+            "last_commit": "2026-08-27T17:58:02Z",
             "owner": "privtools",
             "repo": "ransomposts",
             "stars": 46
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19429
+            "stars": 19433
           }
         }
       ],
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21455
+            "stars": 21465
           }
         }
       ],
@@ -1220,7 +1220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:23.383Z",
+    "last_updated": "2026-08-27T23:02:39.138Z",
     "original_repository_info": {
       "archived": false,
       "id": 441929229,
@@ -1228,7 +1228,7 @@
       "last_commit": "2025-03-12T23:04:21Z",
       "owner": "danieldurnea",
       "repo": "FBI-tools",
-      "stars": 2627
+      "stars": 2628
     },
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",
     "enhanced_repository": "enhansome/enhansome-FBI-tools",
