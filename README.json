@@ -36,7 +36,7 @@
             "last_commit": "2026-07-13T02:47:39Z",
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8794
+            "stars": 8797
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-25T09:47:59Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34603
+            "stars": 34610
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2026-03-13T09:30:18Z",
             "owner": "s0md3v",
             "repo": "roop",
-            "stars": 3559
+            "stars": 3558
           }
         }
       ],
@@ -267,7 +267,7 @@
             "last_commit": "2026-07-22T04:00:51Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2839
+            "stars": 2854
           }
         }
       ],
@@ -330,7 +330,7 @@
             "last_commit": "2026-01-30T14:43:22Z",
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1950
+            "stars": 1951
           }
         }
       ],
@@ -351,7 +351,7 @@
             "last_commit": "2023-11-27T11:25:55Z",
             "owner": "shadawck",
             "repo": "awesome-anti-forensic",
-            "stars": 1034
+            "stars": 1035
           }
         }
       ],
@@ -414,7 +414,7 @@
             "last_commit": "2024-12-05T18:55:57Z",
             "owner": "CScorza",
             "repo": "OSINT-FORENSICS-MOBILE",
-            "stars": 699
+            "stars": 700
           }
         }
       ],
@@ -498,7 +498,7 @@
             "last_commit": "2018-09-08T14:07:42Z",
             "owner": "cloudtracer",
             "repo": "ThreatPinchLookup",
-            "stars": 384
+            "stars": 385
           }
         }
       ],
@@ -624,7 +624,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23833
+            "stars": 23847
           }
         }
       ],
@@ -687,7 +687,7 @@
             "last_commit": "2022-06-27T22:00:44Z",
             "owner": "den4uk",
             "repo": "andriller",
-            "stars": 1598
+            "stars": 1599
           }
         }
       ],
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 468957086,
             "language": "Python",
-            "last_commit": "2026-08-26T04:02:14Z",
+            "last_commit": "2026-08-27T04:13:58Z",
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10506
+            "stars": 10508
           }
         }
       ],
@@ -768,7 +768,7 @@
             "archived": false,
             "id": 40047080,
             "language": "Java",
-            "last_commit": "2026-08-26T12:11:17Z",
+            "last_commit": "2026-08-27T09:44:42Z",
             "owner": "Hack23",
             "repo": "cia",
             "stars": 234
@@ -897,7 +897,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7857
+            "stars": 7867
           }
         }
       ],
@@ -915,7 +915,7 @@
             "archived": false,
             "id": 504592758,
             "language": "Python",
-            "last_commit": "2026-08-26T13:53:18Z",
+            "last_commit": "2026-08-26T21:09:41Z",
             "owner": "privtools",
             "repo": "ransomposts",
             "stars": 46
@@ -1002,7 +1002,7 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19423
+            "stars": 19429
           }
         }
       ],
@@ -1170,7 +1170,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21430
+            "stars": 21455
           }
         }
       ],
@@ -1220,9 +1220,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:22:01.925Z",
-    "original_repository": "danieldurnea/FBI-tools",
-    "original_repository_id": 441929229,
+    "last_updated": "2026-08-27T11:43:23.383Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 441929229,
+      "language": null,
+      "last_commit": "2025-03-12T23:04:21Z",
+      "owner": "danieldurnea",
+      "repo": "FBI-tools",
+      "stars": 2627
+    },
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",
     "enhanced_repository": "enhansome/enhansome-FBI-tools",
     "enhanced_repository_description": null,
