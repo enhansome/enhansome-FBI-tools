@@ -16,7 +16,8 @@
             "owner": "Stuub",
             "repo": "SquatSquasher",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "A tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks."
@@ -36,8 +37,9 @@
             "last_commit": "2026-07-13T02:47:39Z",
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8797
-          }
+            "stars": 8800
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "reNgine: The Ultimate Web Reconnaissance & Vulnerability Scanner 🚀"
@@ -57,8 +59,9 @@
             "last_commit": "2026-08-27T22:53:35Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34611
-          }
+            "stars": 34617
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "🕵️‍♂️ All-in-one OSINT tool for analysing any website"
@@ -79,7 +82,8 @@
             "owner": "dev-lu",
             "repo": "osint_toolkit",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "A full stack web application that combines many tools and services for security analysts into a single tool."
@@ -100,7 +104,8 @@
             "owner": "HackUnderway",
             "repo": "UsernameSearchOSINT",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Tool made in Flask to search for users on different platforms, to make OSINT. 🕵🏽‍♂️"
@@ -120,8 +125,9 @@
             "last_commit": "2026-06-08T05:07:48Z",
             "owner": "HackUnderway",
             "repo": "OsintNum",
-            "stars": 114
-          }
+            "stars": 115
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Tool to make OSINT to phone numbers with the help of APILayer, using its api together with Number Verification API. 🕵🏽‍♂️"
@@ -142,7 +148,8 @@
             "owner": "HackUnderway",
             "repo": "WhatsOSINT",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️"
@@ -163,7 +170,8 @@
             "owner": "LinaYorda",
             "repo": "OSINTko",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts"
@@ -184,7 +192,8 @@
             "owner": "cyberpunkOS",
             "repo": "CyberPunkOS",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News"
@@ -205,7 +214,8 @@
             "owner": "s0md3v",
             "repo": "roop",
             "stars": 3558
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing."
@@ -225,8 +235,9 @@
             "last_commit": "2026-01-06T08:15:11Z",
             "owner": "cipher387",
             "repo": "linux-for-OSINT-21-day",
-            "stars": 602
-          }
+            "stars": 603
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Linux for OSINT. 21-day"
@@ -246,8 +257,9 @@
             "last_commit": "2026-01-06T08:16:28Z",
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1121
-          }
+            "stars": 1122
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Python for OSINT. 21-day"
@@ -264,11 +276,12 @@
             "archived": false,
             "id": 681836129,
             "language": "Python",
-            "last_commit": "2026-07-22T04:00:51Z",
+            "last_commit": "2026-08-28T06:04:29Z",
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2856
-          }
+            "stars": 2863
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs"
@@ -289,7 +302,8 @@
             "owner": "iudicium",
             "repo": "pryingdeep",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Prying Deep - An OSINT tool to collect intelligence on the dark web."
@@ -310,7 +324,8 @@
             "owner": "AnonCatalyst",
             "repo": "Ominis-OSINT",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "This Python script is an OSINT (Open Source Intelligence) tool called \"Ominis OSINT - Information Gathering.\" It performs online information gathering by querying Google for search results related to a user-inputted query."
@@ -330,8 +345,9 @@
             "last_commit": "2026-01-30T14:43:22Z",
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1951
-          }
+            "stars": 1956
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Social Media #OSINT Tools Collection 👨🏽‍💻"
@@ -352,7 +368,8 @@
             "owner": "shadawck",
             "repo": "awesome-anti-forensic",
             "stars": 1035
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes."
@@ -373,7 +390,8 @@
             "owner": "dev-lu",
             "repo": "osint_toolkit",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "OSINT Toolkit is a full-stack web application designed to assist security analysts in their work"
@@ -394,7 +412,8 @@
             "owner": "AvillaDaniel",
             "repo": "AvillaForensics",
             "stars": 1115
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Avilla Forensics 3.0 / Tool for pollice investigation forensics Whatsapp-Signal other poppular apps message"
@@ -415,7 +434,8 @@
             "owner": "CScorza",
             "repo": "OSINT-FORENSICS-MOBILE",
             "stars": 700
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "A collection of tools (+ some theory) for cell phone related investigations"
@@ -436,7 +456,8 @@
             "owner": "CScorza",
             "repo": "Analisi-Digital-Forense",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Forensic Copy Acquisition and Analysis Tools"
@@ -457,7 +478,8 @@
             "owner": "CScorza",
             "repo": "EstensioniChromeOSINT",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Useful Extensions for OSINT"
@@ -478,7 +500,8 @@
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
             "stars": 964
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed."
@@ -499,7 +522,8 @@
             "owner": "cloudtracer",
             "repo": "ThreatPinchLookup",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension"
@@ -519,8 +543,9 @@
             "last_commit": "2024-07-30T15:55:07Z",
             "owner": "MetaOSINT",
             "repo": "MetaOSINT.github.io",
-            "stars": 844
-          }
+            "stars": 845
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "A tool to quickly identify relevant, publicly-available open source intelligence (\"OSINT\") tools and resources, saving valuable time during investigations, research, and analysis."
@@ -541,7 +566,8 @@
             "owner": "C3n7ral051nt4g3ncy",
             "repo": "Prot1ntelligence",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Protintelligence is a Python script for the Cyber Community. It also uses NeutrOSINT made by Kr0wZ. Will help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys, Digital Footprints left by the ProtonMail user on the Clear and Dark Web"
@@ -562,7 +588,8 @@
             "owner": "C3n7ral051nt4g3ncy",
             "repo": "OSINT_Inception-links",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Current links from the OSINT Inception start-me project"
@@ -583,7 +610,8 @@
             "owner": "Bevigil",
             "repo": "BeVigil-OSINT-CLI",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Bevigil-cli provides a unified command line interface and python library for using BeVigil OSINT API."
@@ -604,7 +632,8 @@
             "owner": "C3n7ral051nt4g3ncy",
             "repo": "cURL_for_OSINT",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "cURL Tool Usage for OSINT (Open-Source Intelligence)"
@@ -624,8 +653,9 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23855
-          }
+            "stars": 23869
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \\ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process."
@@ -646,7 +676,8 @@
             "owner": "CScorza",
             "repo": "DistroForensics",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Complete list of sites where you can download the Distros that may be useful to those who are about to or are already in an advanced state in the context of OSINT, Penetration Testing, Digital Forensics and therefore also of Information Security."
@@ -667,7 +698,8 @@
             "owner": "LinaYorda",
             "repo": "OSINTtools",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF"
@@ -688,7 +720,8 @@
             "owner": "den4uk",
             "repo": "andriller",
             "stars": 1599
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices."
@@ -709,7 +742,8 @@
             "owner": "m8sec",
             "repo": "CrossLinked",
             "stars": 1582
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping."
@@ -729,8 +763,9 @@
             "last_commit": "2026-08-05T04:02:59Z",
             "owner": "kennbroorg",
             "repo": "iKy",
-            "stars": 970
-          }
+            "stars": 971
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "OSINT ADVANCING YOUR EMAIL INVESTIGATIONS USING IKY"
@@ -747,11 +782,12 @@
             "archived": false,
             "id": 468957086,
             "language": "Python",
-            "last_commit": "2026-08-27T22:10:55Z",
+            "last_commit": "2026-08-28T19:04:18Z",
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10511
-          }
+            "stars": 10512
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "OSINT automation for hackers."
@@ -768,11 +804,12 @@
             "archived": false,
             "id": 40047080,
             "language": "Java",
-            "last_commit": "2026-08-27T14:49:05Z",
+            "last_commit": "2026-08-28T20:52:10Z",
             "owner": "Hack23",
             "repo": "cia",
-            "stars": 234
-          }
+            "stars": 235
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Citizen Intelligence Agency, open-source intelligence (OSINT) project"
@@ -793,7 +830,8 @@
             "owner": "jfarley248",
             "repo": "MEAT",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "This toolkit aims to help forensicators perform different kinds of acquisitions on iOS devices"
@@ -814,7 +852,8 @@
             "owner": "QXJ6YW4",
             "repo": "SimpleImager",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Simple Imager has been created for performing live acquisition of Windows based systems in a forensically sound manner"
@@ -835,7 +874,8 @@
             "owner": "SirCryptic",
             "repo": "autoexif",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Autoexif want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs, -note: this is now merged into snd and phisherprice"
@@ -856,7 +896,8 @@
             "owner": "jupyterj0nes",
             "repo": "sabonis",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Sabonis, a Digital Forensics and Incident Response pivoting tool"
@@ -877,7 +918,8 @@
             "owner": "vadimkantorov",
             "repo": "natudump",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Scraping LegiFrance naturalisation decrees for fun and OSINT profit"
@@ -897,8 +939,9 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7868
-          }
+            "stars": 7882
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "An OSINT tool to search for accounts by username in social networks"
@@ -915,11 +958,12 @@
             "archived": false,
             "id": 504592758,
             "language": "Python",
-            "last_commit": "2026-08-27T17:58:02Z",
+            "last_commit": "2026-08-28T18:59:20Z",
             "owner": "privtools",
             "repo": "ransomposts",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Ransomware groups posts"
@@ -940,7 +984,8 @@
             "owner": "prose-intelligence-ltd",
             "repo": "Telepathy-Community",
             "stars": 1235
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Public release of Telepathy, an OSINT toolkit for investigating Telegram chats."
@@ -961,7 +1006,8 @@
             "owner": "vvspower",
             "repo": "pinosin",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "An Open Source Intelligence Framework to investigate and keep track of the investigation of a certain individual"
@@ -982,7 +1028,8 @@
             "owner": "n0kovo",
             "repo": "fb_friend_list_scraper",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "OSINT tool to scrape names and usernames from large friend lists on Facebook, without being rate limited."
@@ -1002,8 +1049,9 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19433
-          }
+            "stars": 19445
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "🕵️‍♂️ Offensive Google framework."
@@ -1024,7 +1072,8 @@
             "owner": "qbitseclabs",
             "repo": "osint",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Docker image for osint"
@@ -1045,7 +1094,8 @@
             "owner": "HarryLudemann",
             "repo": "Ngoto",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Python Pentester Tool - easily add/create plugins, available in command line tool and module."
@@ -1066,7 +1116,8 @@
             "owner": "aydinnyunus",
             "repo": "exifLooter",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Exif Looter:-- ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap."
@@ -1086,8 +1137,9 @@
             "last_commit": "2024-07-13T06:27:10Z",
             "owner": "AzizKpln",
             "repo": "Moriarty-Project",
-            "stars": 2074
-          }
+            "stars": 2075
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "This tool gives information about the phone number that you entered."
@@ -1108,7 +1160,8 @@
             "owner": "romz0mbie",
             "repo": "OSINT-Lists",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "List of OSINT resources"
@@ -1128,8 +1181,9 @@
             "last_commit": "2025-12-21T07:24:46Z",
             "owner": "m3n0sd0n4ld",
             "repo": "GooFuzz",
-            "stars": 1585
-          }
+            "stars": 1584
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking)."
@@ -1150,7 +1204,8 @@
             "owner": "xiosec",
             "repo": "Computer-forensics",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "The best tools and resources for forensic analysis"
@@ -1170,8 +1225,9 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21465
-          }
+            "stars": 21489
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
@@ -1192,7 +1248,8 @@
             "owner": "megadose",
             "repo": "quidam-maltego",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Quidam maltego transform"
@@ -1213,14 +1270,15 @@
             "owner": "megadose",
             "repo": "holehe-maltego",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T23:11:07.802Z"
         }
       ],
       "title": "Holehe Maltego Transform"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:02:39.138Z",
+    "last_updated": "2026-08-28T23:11:07.802Z",
     "original_repository_info": {
       "archived": false,
       "id": 441929229,
@@ -1228,7 +1286,7 @@
       "last_commit": "2025-03-12T23:04:21Z",
       "owner": "danieldurnea",
       "repo": "FBI-tools",
-      "stars": 2628
+      "stars": 2631
     },
     "original_repository_sha": "8b14143bf0da114cd0b971bfc9a541dfb38531b0",
     "enhanced_repository": "enhansome/enhansome-FBI-tools",
