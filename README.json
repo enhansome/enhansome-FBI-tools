@@ -53,7 +53,7 @@
             "open_issues": 164,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8842,
+            "stars": 8845,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -97,7 +97,7 @@
             "open_issues": 33,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34845,
+            "stars": 34860,
             "topics": [
               "osint",
               "privacy",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 943,
+            "stars": 944,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "HackUnderway",
             "repo": "OsintNum",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "api",
               "apilayer",
@@ -226,7 +226,7 @@
             "open_issues": 6,
             "owner": "HackUnderway",
             "repo": "WhatsOSINT",
-            "stars": 350,
+            "stars": 352,
             "topics": [
               "osint",
               "python",
@@ -258,7 +258,7 @@
             "open_issues": 1,
             "owner": "LinaYorda",
             "repo": "OSINTko",
-            "stars": 307,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T23:11:07.802Z"
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 2942,
+            "stars": 2955,
             "topics": [
               "cyber-security",
               "cybersecurity",
@@ -457,7 +457,7 @@
             "open_issues": 1,
             "owner": "iudicium",
             "repo": "pryingdeep",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "crawler",
               "darkweb",
@@ -495,7 +495,7 @@
             "open_issues": 5,
             "owner": "AnonCatalyst",
             "repo": "Ominis-OSINT",
-            "stars": 616,
+            "stars": 617,
             "topics": [
               "finder",
               "forensics",
@@ -540,7 +540,7 @@
             "open_issues": 19,
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 1984,
+            "stars": 1986,
             "topics": [
               "humint",
               "osint",
@@ -614,7 +614,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 943,
+            "stars": 944,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -646,7 +646,7 @@
             "open_issues": 8,
             "owner": "AvillaDaniel",
             "repo": "AvillaForensics",
-            "stars": 1122,
+            "stars": 1123,
             "topics": [
               "adb",
               "adb-commands",
@@ -812,7 +812,7 @@
             "open_issues": 11,
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 973,
+            "stars": 972,
             "topics": [
               "corpint",
               "dnint",
@@ -860,7 +860,7 @@
             "open_issues": 37,
             "owner": "cloudtracer",
             "repo": "ThreatPinchLookup",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "alienvault",
               "censys",
@@ -908,7 +908,7 @@
             "open_issues": 7,
             "owner": "MetaOSINT",
             "repo": "MetaOSINT.github.io",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "cryptocurrency",
               "cybersecurity",
@@ -956,7 +956,7 @@
             "open_issues": 2,
             "owner": "C3n7ral051nt4g3ncy",
             "repo": "Prot1ntelligence",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "cybersecurity",
               "hacking",
@@ -1103,7 +1103,7 @@
             "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24054,
+            "stars": 24062,
             "topics": [
               "analysis",
               "analyzer",
@@ -1337,10 +1337,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-17T02:39:04Z",
-            "open_issues": 41,
+            "open_issues": 50,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10580,
+            "stars": 10593,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -1384,7 +1384,7 @@
             "id": 40047080,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T10:49:07Z",
+            "last_commit": "2026-09-18T09:42:27Z",
             "open_issues": 0,
             "owner": "Hack23",
             "repo": "cia",
@@ -1619,7 +1619,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 8352,
+            "stars": 8417,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1647,7 +1647,7 @@
             "id": 504592758,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-09-17T17:14:50Z",
+            "last_commit": "2026-09-18T16:41:57Z",
             "open_issues": 0,
             "owner": "privtools",
             "repo": "ransomposts",
@@ -1781,7 +1781,7 @@
             "open_issues": 76,
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19569,
+            "stars": 19573,
             "topics": [
               "google",
               "hideandsec",
@@ -1940,7 +1940,7 @@
             "open_issues": 3,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2089,
+            "stars": 2088,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -2015,7 +2015,7 @@
             "open_issues": 0,
             "owner": "m3n0sd0n4ld",
             "repo": "GooFuzz",
-            "stars": 1587,
+            "stars": 1588,
             "topics": [
               "bash-script",
               "bugbounty",
@@ -2096,7 +2096,7 @@
             "open_issues": 319,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22289,
+            "stars": 22350,
             "topics": [
               "attacksurface",
               "cti",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:43:43.776Z",
+    "last_updated": "2026-09-18T17:10:26.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
@@ -2208,7 +2208,7 @@
       "open_issues": 10,
       "owner": "danieldurnea",
       "repo": "FBI-tools",
-      "stars": 2659,
+      "stars": 2661,
       "topics": [
         "awesome",
         "awesome-list",
