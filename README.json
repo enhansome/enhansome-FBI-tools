@@ -97,7 +97,7 @@
             "open_issues": 1,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34959,
+            "stars": 34968,
             "topics": [
               "osint",
               "privacy",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 949,
+            "stars": 952,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -410,7 +410,7 @@
             "open_issues": 1,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 3018,
+            "stars": 3019,
             "topics": [
               "cyber-security",
               "cybersecurity",
@@ -457,7 +457,7 @@
             "open_issues": 1,
             "owner": "iudicium",
             "repo": "pryingdeep",
-            "stars": 614,
+            "stars": 613,
             "topics": [
               "crawler",
               "darkweb",
@@ -537,10 +537,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T14:27:00Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 2000,
+            "stars": 2002,
             "topics": [
               "humint",
               "osint",
@@ -614,7 +614,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 949,
+            "stars": 952,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -646,7 +646,7 @@
             "open_issues": 8,
             "owner": "AvillaDaniel",
             "repo": "AvillaForensics",
-            "stars": 1133,
+            "stars": 1135,
             "topics": [
               "adb",
               "adb-commands",
@@ -694,7 +694,7 @@
             "open_issues": 6,
             "owner": "CScorza",
             "repo": "OSINT-FORENSICS-MOBILE",
-            "stars": 706,
+            "stars": 705,
             "topics": [
               "forensics",
               "forensics-data",
@@ -997,7 +997,7 @@
             "open_issues": 0,
             "owner": "C3n7ral051nt4g3ncy",
             "repo": "OSINT_Inception-links",
-            "stars": 223,
+            "stars": 222,
             "topics": [
               "backup",
               "inception",
@@ -1033,7 +1033,7 @@
             "open_issues": 0,
             "owner": "Bevigil",
             "repo": "BeVigil-OSINT-CLI",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "android-pentesting",
               "android-security",
@@ -1103,7 +1103,7 @@
             "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24154,
+            "stars": 24160,
             "topics": [
               "analysis",
               "analyzer",
@@ -1225,7 +1225,7 @@
             "open_issues": 12,
             "owner": "den4uk",
             "repo": "andriller",
-            "stars": 1612,
+            "stars": 1613,
             "topics": [
               "android",
               "forensics",
@@ -1256,7 +1256,7 @@
             "open_issues": 11,
             "owner": "m8sec",
             "repo": "CrossLinked",
-            "stars": 1599,
+            "stars": 1601,
             "topics": [
               "enumeration",
               "linkedin-scraper",
@@ -1336,11 +1336,11 @@
             "id": 468957086,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T02:42:20Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-01T18:54:39Z",
+            "open_issues": 45,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10646,
+            "stars": 10649,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -1384,11 +1384,11 @@
             "id": 40047080,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T05:47:44Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-01T12:09:06Z",
+            "open_issues": 1,
             "owner": "Hack23",
             "repo": "cia",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "ai",
               "civic-tech",
@@ -1619,7 +1619,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 8779,
+            "stars": 8795,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1647,7 +1647,7 @@
             "id": 504592758,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-09-30T12:57:54Z",
+            "last_commit": "2026-10-01T13:50:22Z",
             "open_issues": 0,
             "owner": "privtools",
             "repo": "ransomposts",
@@ -2096,7 +2096,7 @@
             "open_issues": 323,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22693,
+            "stars": 22713,
             "topics": [
               "attacksurface",
               "cti",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:32:47.664Z",
+    "last_updated": "2026-10-01T19:00:13.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
@@ -2208,7 +2208,7 @@
       "open_issues": 11,
       "owner": "danieldurnea",
       "repo": "FBI-tools",
-      "stars": 2686,
+      "stars": 2688,
       "topics": [
         "awesome",
         "awesome-list",
