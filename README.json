@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Stuub",
             "repo": "SquatSquasher",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "blue-team",
               "cybersecurity",
@@ -53,7 +53,7 @@
             "open_issues": 180,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8874,
+            "stars": 8875,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -97,7 +97,7 @@
             "open_issues": 1,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 35068,
+            "stars": 35078,
             "topics": [
               "osint",
               "privacy",
@@ -193,7 +193,7 @@
             "open_issues": 1,
             "owner": "HackUnderway",
             "repo": "OsintNum",
-            "stars": 124,
+            "stars": 126,
             "topics": [
               "api",
               "apilayer",
@@ -226,7 +226,7 @@
             "open_issues": 6,
             "owner": "HackUnderway",
             "repo": "WhatsOSINT",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "osint",
               "python",
@@ -410,7 +410,7 @@
             "open_issues": 1,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 3060,
+            "stars": 3061,
             "topics": [
               "cyber-security",
               "cybersecurity",
@@ -537,10 +537,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T14:27:00Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "osintambition",
             "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 2021,
+            "stars": 2023,
             "topics": [
               "humint",
               "osint",
@@ -812,7 +812,7 @@
             "open_issues": 11,
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
-            "stars": 975,
+            "stars": 974,
             "topics": [
               "corpint",
               "dnint",
@@ -1103,7 +1103,7 @@
             "open_issues": 27,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24272,
+            "stars": 24280,
             "topics": [
               "analysis",
               "analyzer",
@@ -1256,7 +1256,7 @@
             "open_issues": 11,
             "owner": "m8sec",
             "repo": "CrossLinked",
-            "stars": 1606,
+            "stars": 1607,
             "topics": [
               "enumeration",
               "linkedin-scraper",
@@ -1336,11 +1336,11 @@
             "id": 468957086,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T18:55:09Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-11T04:45:09Z",
+            "open_issues": 47,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10686,
+            "stars": 10689,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -1384,7 +1384,7 @@
             "id": 40047080,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T14:00:46Z",
+            "last_commit": "2026-10-11T12:09:08Z",
             "open_issues": 2,
             "owner": "Hack23",
             "repo": "cia",
@@ -1501,7 +1501,7 @@
           "repo_info": {
             "archived": true,
             "description": "want to remove sensitive data from photos or even view it? use autoexif to easily help you do that no more remembering syntaxs with this user-friendly tool.",
-            "homepage": null,
+            "homepage": "https://pypi.org/project/autoexif/",
             "id": 264575176,
             "language": "Python",
             "license": "MIT",
@@ -1619,7 +1619,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 9039,
+            "stars": 9052,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1647,7 +1647,7 @@
             "id": 504592758,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-10T13:00:11Z",
+            "last_commit": "2026-10-11T13:25:39Z",
             "open_issues": 0,
             "owner": "privtools",
             "repo": "ransomposts",
@@ -1781,7 +1781,7 @@
             "open_issues": 79,
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19674,
+            "stars": 19675,
             "topics": [
               "google",
               "hideandsec",
@@ -2093,10 +2093,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 23270,
+            "stars": 23312,
             "topics": [
               "attacksurface",
               "cti",
@@ -2196,7 +2196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:58:29.459Z",
+    "last_updated": "2026-10-11T18:25:09.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
