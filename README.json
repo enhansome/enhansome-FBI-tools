@@ -94,10 +94,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T11:18:29Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 35149,
+            "stars": 35153,
             "topics": [
               "osint",
               "privacy",
@@ -321,7 +321,7 @@
             "open_issues": 139,
             "owner": "s0md3v",
             "repo": "roop",
-            "stars": 3563,
+            "stars": 3562,
             "topics": [
               "stable-diffusion"
             ]
@@ -383,7 +383,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "python-for-OSINT-21-days",
-            "stars": 1128,
+            "stars": 1127,
             "topics": []
           },
           "first_seen": "2026-08-28T23:11:07.802Z"
@@ -406,11 +406,11 @@
             "id": 681836129,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-22T04:53:33Z",
+            "last_commit": "2026-10-17T21:09:01Z",
             "open_issues": 1,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 3078,
+            "stars": 3082,
             "topics": [
               "cyber-security",
               "cybersecurity",
@@ -495,7 +495,7 @@
             "open_issues": 8,
             "owner": "AnonCatalyst",
             "repo": "Ominis-OSINT",
-            "stars": 634,
+            "stars": 636,
             "topics": [
               "finder",
               "forensics",
@@ -520,44 +520,6 @@
         }
       ],
       "title": "This Python script is an OSINT (Open Source Intelligence) tool called \"Ominis OSINT - Information Gathering.\" It performs online information gathering by querying Google for search results related to a user-inputted query."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🔗https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
-          "description": "OSINTVerseHQ/Social-Media-OSINT-Tools-Collection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of most useful osint tools for SOCINT.",
-            "homepage": "https://osintversehq.github.io/Social-Media-OSINT-Tools-Collection/",
-            "id": 643174512,
-            "language": null,
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-12T10:34:49Z",
-            "open_issues": 26,
-            "owner": "OSINTVerseHQ",
-            "repo": "Social-Media-OSINT-Tools-Collection",
-            "stars": 2033,
-            "topics": [
-              "humint",
-              "osint",
-              "osint-resources",
-              "osint-toolkit",
-              "osint-tools",
-              "osinttool",
-              "social",
-              "social-media",
-              "socint",
-              "socmint"
-            ]
-          },
-          "first_seen": "2026-08-28T23:11:07.802Z"
-        }
-      ],
-      "title": "Social Media #OSINT Tools Collection 👨🏽‍💻"
     },
     {
       "description": null,
@@ -1103,7 +1065,7 @@
             "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24322,
+            "stars": 24327,
             "topics": [
               "analysis",
               "analyzer",
@@ -1225,7 +1187,7 @@
             "open_issues": 12,
             "owner": "den4uk",
             "repo": "andriller",
-            "stars": 1619,
+            "stars": 1618,
             "topics": [
               "android",
               "forensics",
@@ -1336,11 +1298,11 @@
             "id": 468957086,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T00:45:33Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-18T04:43:45Z",
+            "open_issues": 53,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10714,
+            "stars": 10717,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -1384,7 +1346,7 @@
             "id": 40047080,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T16:04:17Z",
+            "last_commit": "2026-10-18T08:01:56Z",
             "open_issues": 2,
             "owner": "Hack23",
             "repo": "cia",
@@ -1619,7 +1581,7 @@
             "open_issues": 17,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 9177,
+            "stars": 9181,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1647,7 +1609,7 @@
             "id": 504592758,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-17T15:54:26Z",
+            "last_commit": "2026-10-18T16:06:58Z",
             "open_issues": 0,
             "owner": "privtools",
             "repo": "ransomposts",
@@ -1680,7 +1642,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-13T06:26:37Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "prose-intelligence-ltd",
             "repo": "Telepathy-Community",
             "stars": 1254,
@@ -1781,7 +1743,7 @@
             "open_issues": 80,
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19713,
+            "stars": 19716,
             "topics": [
               "google",
               "hideandsec",
@@ -1940,7 +1902,7 @@
             "open_issues": 3,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2117,
+            "stars": 2118,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -2096,7 +2058,7 @@
             "open_issues": 346,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 23565,
+            "stars": 23588,
             "topics": [
               "attacksurface",
               "cti",
@@ -2196,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:37:45.570Z",
+    "last_updated": "2026-10-18T16:50:08.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
