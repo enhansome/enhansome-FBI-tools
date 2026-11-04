@@ -53,7 +53,7 @@
             "open_issues": 181,
             "owner": "yogeshojha",
             "repo": "rengine",
-            "stars": 8913,
+            "stars": 8915,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -97,7 +97,7 @@
             "open_issues": 4,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 35350,
+            "stars": 35361,
             "topics": [
               "osint",
               "privacy",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 952,
+            "stars": 954,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -226,7 +226,7 @@
             "open_issues": 6,
             "owner": "HackUnderway",
             "repo": "WhatsOSINT",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "osint",
               "python",
@@ -254,7 +254,7 @@
             "id": 708412665,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-03T19:32:18Z",
+            "last_commit": "2026-11-04T09:28:21Z",
             "open_issues": 1,
             "owner": "LinaYorda",
             "repo": "OSINTko",
@@ -410,7 +410,7 @@
             "open_issues": 6,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 3138,
+            "stars": 3143,
             "topics": [
               "cyber-security",
               "cybersecurity",
@@ -491,7 +491,7 @@
             "id": 702292407,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T02:54:34Z",
+            "last_commit": "2026-11-04T02:31:29Z",
             "open_issues": 0,
             "owner": "AnonCatalyst",
             "repo": "Ominis-OSINT",
@@ -576,7 +576,7 @@
             "open_issues": 0,
             "owner": "dev-lu",
             "repo": "osint_toolkit",
-            "stars": 952,
+            "stars": 954,
             "topics": [
               "cybersecurity",
               "threat-detection",
@@ -771,7 +771,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-08-01T23:54:57Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "OhShINT",
             "repo": "ohshint.gitbook.io",
             "stars": 979,
@@ -1062,10 +1062,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-01-12T21:50:25Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24438,
+            "stars": 24445,
             "topics": [
               "analysis",
               "analyzer",
@@ -1187,7 +1187,7 @@
             "open_issues": 13,
             "owner": "den4uk",
             "repo": "andriller",
-            "stars": 1629,
+            "stars": 1630,
             "topics": [
               "android",
               "forensics",
@@ -1218,7 +1218,7 @@
             "open_issues": 12,
             "owner": "m8sec",
             "repo": "CrossLinked",
-            "stars": 1637,
+            "stars": 1639,
             "topics": [
               "enumeration",
               "linkedin-scraper",
@@ -1298,11 +1298,11 @@
             "id": 468957086,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-03T18:42:46Z",
+            "last_commit": "2026-11-04T19:49:52Z",
             "open_issues": 34,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10930,
+            "stars": 10953,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -1346,7 +1346,7 @@
             "id": 40047080,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T15:51:55Z",
+            "last_commit": "2026-11-04T20:26:03Z",
             "open_issues": 2,
             "owner": "Hack23",
             "repo": "cia",
@@ -1581,7 +1581,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 9563,
+            "stars": 9655,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1609,7 +1609,7 @@
             "id": 504592758,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-03T14:37:17Z",
+            "last_commit": "2026-11-04T14:50:34Z",
             "open_issues": 0,
             "owner": "privtools",
             "repo": "ransomposts",
@@ -1743,7 +1743,7 @@
             "open_issues": 77,
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19776,
+            "stars": 19783,
             "topics": [
               "google",
               "hideandsec",
@@ -1902,7 +1902,7 @@
             "open_issues": 4,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2133,
+            "stars": 2134,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -2058,7 +2058,7 @@
             "open_issues": 394,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 24296,
+            "stars": 24319,
             "topics": [
               "attacksurface",
               "cti",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:15:55.788Z",
+    "last_updated": "2026-11-04T20:30:52.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
@@ -2170,7 +2170,7 @@
       "open_issues": 11,
       "owner": "danieldurnea",
       "repo": "FBI-tools",
-      "stars": 2727,
+      "stars": 2728,
       "topics": [
         "awesome",
         "awesome-list",
