@@ -22,13 +22,13 @@
 
 ### reNgine: The Ultimate Web Reconnaissance & Vulnerability Scanner 🚀
 
-<https://github.com/yogeshojha/rengine> ⭐ 8,922 | 🐛 181 | 🌐 HTML | 📅 2026-10-31
+<https://github.com/yogeshojha/rengine> ⭐ 8,924 | 🐛 181 | 🌐 HTML | 📅 2026-11-08
 
 ### web-check
 
 ### 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
-<https://github.com/Lissy93/web-check> ⭐ 35,402 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-05
+<https://github.com/Lissy93/web-check> ⭐ 35,406 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-05
 
 ### Osint\_toolkit
 
@@ -56,7 +56,7 @@
 
 ### OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 
-<https://github.com/LinaYorda/OSINTko> ⭐ 308 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-04
+<https://github.com/LinaYorda/OSINTko> ⭐ 310 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-04
 
 ### 𝐎𝐬𝐢𝐧𝐭𝐍𝐮𝐦 👨🏽‍💻
 
@@ -65,7 +65,7 @@ Tool to make OSINT to phone numbers with the help of APILayer, using its api tog
 
 ### CyberPunkOS is a virtual machine that incorporates several tools for Open Source Intelligence (OSINT) to dismantle Fake News
 
-<https://github.com/cyberpunkOS/CyberPunkOS> ⭐ 204 | 🐛 0 | 🌐 Python | 📅 2023-09-02
+<https://github.com/cyberpunkOS/CyberPunkOS> ⭐ 205 | 🐛 0 | 🌐 Python | 📅 2023-09-02
 
 ### Chiasmodon 🥷🏼
 
@@ -91,7 +91,7 @@ Partly free.
 
 ### Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs
 
-<https://github.com/Alfredredbird/alfred> ⭐ 3,158 | 🐛 6 | 🌐 Python | 📅 2026-10-26
+<https://github.com/Alfredredbird/alfred> ⭐ 3,162 | 🐛 6 | 🌐 Python | 📅 2026-10-26
 
 ### Prying Deep - An OSINT tool to collect intelligence on the dark web.
 
@@ -99,7 +99,7 @@ Partly free.
 
 ### This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Information Gathering." It performs online information gathering by querying Google for search results related to a user-inputted query.
 
-<https://github.com/AnonCatalyst/Ominis-Osint> ⭐ 648 | 🐛 0 | 🌐 Python | 📅 2026-11-07
+<https://github.com/AnonCatalyst/Ominis-Osint> ⭐ 648 | 🐛 0 | 🌐 Python | 📅 2026-11-08
 
 ### Cheat Sheet - OSINT 🕵🏽‍♂️
 
@@ -115,7 +115,7 @@ Partly free.
 
 ### Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes.
 
-<https://github.com/shadawck/awesome-anti-forensic> ⭐ 1,057 | 🐛 5 | 🌐 HTML | 📅 2023-11-27
+<https://github.com/shadawck/awesome-anti-forensic> ⭐ 1,056 | 🐛 5 | 🌐 HTML | 📅 2023-11-27
 
 ### OSINT Toolkit is a full-stack web application designed to assist security analysts in their work
 
@@ -193,11 +193,11 @@ This repository contains a curated list of open source intelligence tools and re
 
 ### Social Analyzer - API, CLI, and Web App for analyzing & finding a person's profile across +1000 social media \ websites. It includes different analysis and detection modules, and you can choose which modules to use during the investigation process.
 
-<https://github.com/qeeqbox/social-analyzer> ⭐ 24,492 | 🐛 28 | 🌐 JavaScript | 📅 2026-01-12
+<https://github.com/qeeqbox/social-analyzer> ⭐ 24,501 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-08
 
 ### Complete list of sites where you can download the Distros that may be useful to those who are about to or are already in an advanced state in the context of OSINT, Penetration Testing, Digital Forensics and therefore also of Information Security.
 
-<https://github.com/CScorza/DistroForensics> ⭐ 83 | 🐛 1 | 📅 2024-05-21
+<https://github.com/CScorza/DistroForensics> ⭐ 84 | 🐛 1 | 📅 2024-05-21
 
 ### A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF
 
@@ -214,15 +214,15 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping.
 
-<https://github.com/m8sec/CrossLinked> ⭐ 1,640 | 🐛 12 | 🌐 Python | 📅 2024-11-26
+<https://github.com/m8sec/CrossLinked> ⭐ 1,641 | 🐛 12 | 🌐 Python | 📅 2024-11-26
 
 ### OSINT ADVANCING YOUR EMAIL INVESTIGATIONS USING IKY
 
-<https://github.com/kennbroorg/iKy> ⭐ 991 | 🐛 4 | 🌐 Python | 📅 2026-10-10
+<https://github.com/kennbroorg/iKy> ⭐ 992 | 🐛 4 | 🌐 Python | 📅 2026-10-10
 
 ### OSINT automation for hackers.
 
-<https://github.com/blacklanternsecurity/bbot> ⭐ 11,003 | 🐛 36 | 🌐 Python | 📅 2026-11-06
+<https://github.com/blacklanternsecurity/bbot> ⭐ 11,031 | 🐛 46 | 🌐 Python | 📅 2026-11-08
 
 ### Citizen Intelligence Agency, open-source intelligence (OSINT) project
 
@@ -250,11 +250,11 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### An OSINT tool to search for accounts by username in social networks
 
-<https://github.com/p1ngul1n0/blackbird> ⭐ 9,883 | 🐛 16 | 🌐 Python | 📅 2026-11-03
+<https://github.com/p1ngul1n0/blackbird> ⭐ 9,962 | 🐛 16 | 🌐 Python | 📅 2026-11-03
 
 ### Ransomware groups posts
 
-<https://github.com/privtools/ransomposts> ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-11-07
+<https://github.com/privtools/ransomposts> ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-11-08
 
 ### Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.
 
@@ -270,7 +270,7 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### 🕵️‍♂️ Offensive Google framework.
 
-<https://github.com/mxrch/GHunt> ⭐ 19,803 | 🐛 77 | 🌐 Python | 📅 2026-04-10
+<https://github.com/mxrch/GHunt> ⭐ 19,809 | 🐛 78 | 🌐 Python | 📅 2026-04-10
 
 ###
 
@@ -288,7 +288,7 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### This tool gives information about the phone number that you entered.
 
-<https://github.com/AzizKpln/Moriarty-Project> ⭐ 2,136 | 🐛 4 | 🌐 Python | 📅 2026-09-09
+<https://github.com/AzizKpln/Moriarty-Project> ⭐ 2,137 | 🐛 4 | 🌐 Python | 📅 2026-09-09
 
 ### List of OSINT resources
 
@@ -304,12 +304,12 @@ This toolkit aims to help forensicators perform different kinds of acquisitions 
 
 ### SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
-<https://github.com/smicallef/spiderfoot> ⭐ 24,402 | 🐛 396 | 🌐 Python | 📅 2026-04-13
+<https://github.com/smicallef/spiderfoot> ⭐ 24,427 | 🐛 400 | 🌐 Python | 📅 2026-04-13
 
 ### Hayabusa
 
 Hayabusa is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust. :
-<https://github.com/Yamato-Security/hayabusa> ⭐ 3,442 | 🐛 19 | 🌐 Rust | 📅 2026-11-06
+<https://github.com/Yamato-Security/hayabusa> ⭐ 3,445 | 🐛 19 | 🌐 Rust | 📅 2026-11-06
 
 ### Awesome forensics
 
@@ -319,7 +319,7 @@ A curated list of awesome forensic analysis tools and resources. :
 ### MVT
 
 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.:
-<https://github.com/mvt-project/mvt> ⭐ 15,836 | 🐛 68 | 🌐 Python | 📅 2026-11-05
+<https://github.com/mvt-project/mvt> ⭐ 15,882 | 🐛 68 | 🌐 Python | 📅 2026-11-05
 
 ### FireFox Security Researcher
 
@@ -328,7 +328,7 @@ Configure FireFox with Security and Intelligance features for OSINT and Security
 
 ### Iris Web
 
-Collaborative Incident Response platform. : <https://github.com/dfir-iris/iris-web> ⭐ 1,621 | 🐛 440 | 🌐 Shell | 📅 2026-10-22
+Collaborative Incident Response platform. : <https://github.com/dfir-iris/iris-web> ⭐ 1,621 | 🐛 440 | 🌐 Shell | 📅 2026-11-08
 
 ### Offensive OSINT Blog
 
@@ -388,11 +388,11 @@ A tool for OSINT based threat hunting. : <https://github.com/ninoseki/mihari> �
 
 ### TRACEE
 
-Tracee: Runtime Security and Forensics using eBPF. : <https://github.com/aquasecurity/tracee> ⭐ 4,663 | 🐛 130 | 🌐 Go | 📅 2026-11-01
+Tracee: Runtime Security and Forensics using eBPF. : <https://github.com/aquasecurity/tracee> ⭐ 4,661 | 🐛 130 | 🌐 Go | 📅 2026-11-01
 
 ### Tlosint live
 
-Trace Labs OSINT Linux Distribution based on Kali.: <https://github.com/tracelabs/tlosint-live> ⭐ 835 | 🐛 23 | 🌐 HTML | 📅 2023-08-20
+Trace Labs OSINT Linux Distribution based on Kali.: <https://github.com/tracelabs/tlosint-live> ⭐ 836 | 🐛 23 | 🌐 HTML | 📅 2023-08-20
 
 ### gOSINT
 
@@ -409,7 +409,7 @@ Secure ELF parsing/loading library for forensics reconstruction of malware, and 
 
 ### Toutatis
 
-Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. : <https://github.com/megadose/toutatis> ⭐ 4,418 | 🐛 379 | 🌐 Python | 📅 2024-12-05
+Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more. : <https://github.com/megadose/toutatis> ⭐ 4,418 | 🐛 380 | 🌐 Python | 📅 2024-12-05
 
 ### Octosuite
 
@@ -437,7 +437,7 @@ OSINT tool that allows you to find a person's accounts and emails + breached ema
 
 ### Infoooze
 
-Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches. : <https://github.com/7ORP3DO/infoooze> ⭐ 1,155 | 🐛 53 | 🌐 JavaScript | 📅 2023-10-31
+Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches. : <https://github.com/7ORP3DO/infoooze> ⭐ 1,156 | 🐛 53 | 🌐 JavaScript | 📅 2023-10-31
 
 ### Oblivion
 
@@ -445,7 +445,7 @@ Oblivion is a tool focused in real time monitoring of new data leaks, notifying 
 
 ### Mr.Holmes
 
-🔍 A Complete Osint Tool : <https://github.com/Lucksi/Mr.Holmes> ⭐ 4,388 | 🐛 44 | 🌐 Python | 📅 2026-02-21
+🔍 A Complete Osint Tool : <https://github.com/Lucksi/Mr.Holmes> ⭐ 4,389 | 🐛 44 | 🌐 Python | 📅 2026-02-21
 
 ### AVOSINT
 
@@ -458,7 +458,7 @@ PoC OSINT Discord user and guild information harvester : <https://github.com/V3n
 ### Ghost Recon
 
 An OSINT framework updated weekly, wich with you can search on precise targets, with a lot of features like person search, criminal search, or social media scanning with eamail/phone, and ip changer. :
-<https://github.com/DR34M-M4K3R/GhostRecon> ⭐ 312 | 🐛 0 | 🌐 Shell | 📅 2024-11-13
+<https://github.com/DR34M-M4K3R/GhostRecon> ⭐ 311 | 🐛 0 | 🌐 Shell | 📅 2024-11-13
 
 ### Collector
 
@@ -483,7 +483,7 @@ Proof of concept for abusing Telegram's "People Near Me" feature and tracking pe
 Discover the location of nearby Telegram users 📡🌍 : <https://github.com/tejado/telegram-nearby-map> ⭐ 1,198 | 🐛 10 | 🌐 JavaScript | 📅 2024-02-17
 
 Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
-<https://github.com/megadose/holehe> ⭐ 15,562 | 🐛 122 | 🌐 Python | 📅 2024-09-10
+<https://github.com/megadose/holehe> ⭐ 15,570 | 🐛 123 | 🌐 Python | 📅 2024-09-10
 
 ### Holehe Maltego Transform
 
@@ -496,7 +496,7 @@ OSINT Tool on Twitter and Instagram. : <https://github.com/xadhrit/terra> ⭐ 47
 ### Prosint
 
 ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses
-<https://github.com/pixelbubble/ProtOSINT> ⭐ 441 | 🐛 1 | 🌐 Python | 📅 2026-07-19
+<https://github.com/pixelbubble/ProtOSINT> ⭐ 442 | 🐛 1 | 🌐 Python | 📅 2026-07-19
 
 ### Toolkit
 
@@ -539,7 +539,7 @@ Track users across social media platform
 ### Osint stuff tool collection
 
 A collection of several hundred online tools for OSINT
-<https://github.com/cipher387/osint_stuff_tool_collection> ⭐ 9,078 | 🐛 2 | 📅 2026-11-07
+<https://github.com/cipher387/osint_stuff_tool_collection> ⭐ 9,080 | 🐛 4 | 📅 2026-11-07
 
 ### Teler
 
@@ -553,7 +553,7 @@ A Search Tool created to explore the FBI's nj arrest file. Created For Hack Jers
 ### OSINT JUMP
 
 This virtual machine image is intended for open source offensive reconnaissance. The iso image of the kali linux NetInstall operating system is taken as a basis. Other required packages were installed manually. The image includes the following packages.:
-<https://github.com/delikely/OSINT-JUMP> ⭐ 14 | 🐛 0 | 📅 2023-01-10
+<https://github.com/delikely/OSINT-JUMP> ⭐ 15 | 🐛 0 | 📅 2023-01-10
 
 ### Infoga
 
@@ -578,12 +578,12 @@ Extract Metadata from several audio containers
 ### Gesmask
 
 Information gathering tool - OSINT
-<https://github.com/twelvesec/gasmask> ⭐ 1,511 | 🐛 7 | 🌐 Python | 📅 2021-06-11
+<https://github.com/twelvesec/gasmask> ⭐ 1,512 | 🐛 7 | 🌐 Python | 📅 2021-06-11
 
 ### Check ifemail exists
 
 Check if there is an e-mail address without sending any email. Use Telnet.
-<https://github.com/amaurymartiny/check-if-email-exists> ⭐ 10,433 | 🐛 60 | 🌐 Rust | 📅 2026-10-30
+<https://github.com/amaurymartiny/check-if-email-exists> ⭐ 10,435 | 🐛 60 | 🌐 Rust | 📅 2026-10-30
 
 ### App Metadata
 
@@ -610,7 +610,7 @@ compromise. - <https://github.com/botherder/androidqf> ⭐ 314 | 🐛 3 | 🌐 G
 
 IPED is an open source software that can be used to process and analyze
 digital evidence, often seized at crime scenes by law enforcement or in a
-corporate investigation by private examiners. - <https://github.com/sepinf-inc/IPED> ⭐ 3,090 | 🐛 414 | 🌐 Java | 📅 2026-11-06
+corporate investigation by private examiners. - <https://github.com/sepinf-inc/IPED> ⭐ 3,091 | 🐛 414 | 🌐 Java | 📅 2026-11-08
 
 ### Turbinia
 
@@ -635,7 +635,7 @@ Recover information from ip geolocation
 ### Cameradar
 
 Cameradar hacks its way into RTSP videosurveillance cameras
-<https://github.com/Ullaakut/cameradar> ⭐ 5,291 | 🐛 21 | 🌐 Go | 📅 2026-10-27
+<https://github.com/Ullaakut/cameradar> ⭐ 5,314 | 🐛 21 | 🌐 Go | 📅 2026-10-27
 
 ### Power Forensic
 
@@ -645,8 +645,8 @@ Powerforensics is a framework for forensic analysis of live records
 ### Face Recognition
 
 The World's simplest facial recognition api for python and the command line
-<https://github.com/ageitgey/face_recognition> ⭐ 56,880 | 🐛 833 | 🌐 Python | 📅 2026-06-25
+<https://github.com/ageitgey/face_recognition> ⭐ 56,882 | 🐛 833 | 🌐 Python | 📅 2026-06-25
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
