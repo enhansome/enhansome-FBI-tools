@@ -93,11 +93,11 @@
             "id": 658364446,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T21:33:20Z",
+            "last_commit": "2026-11-22T19:54:54Z",
             "open_issues": 3,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 35560,
+            "stars": 35565,
             "topics": [
               "osint",
               "privacy",
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "cyberpunkOS",
             "repo": "CyberPunkOS",
-            "stars": 206,
+            "stars": 205,
             "topics": [
               "cybersecurity",
               "cybersecurity-awareness",
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "Alfredredbird",
             "repo": "tookie-osint",
-            "stars": 3208,
+            "stars": 3211,
             "topics": [
               "cyber-security",
               "cybersecurity",
@@ -540,7 +540,7 @@
             "open_issues": 5,
             "owner": "shadawck",
             "repo": "awesome-anti-forensic",
-            "stars": 1059,
+            "stars": 1058,
             "topics": [
               "anti-forensic",
               "anti-forensics",
@@ -608,7 +608,7 @@
             "open_issues": 8,
             "owner": "AvillaDaniel",
             "repo": "AvillaForensics",
-            "stars": 1158,
+            "stars": 1159,
             "topics": [
               "adb",
               "adb-commands",
@@ -656,7 +656,7 @@
             "open_issues": 6,
             "owner": "CScorza",
             "repo": "OSINT-FORENSICS-MOBILE",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "forensics",
               "forensics-data",
@@ -1065,7 +1065,7 @@
             "open_issues": 25,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24600,
+            "stars": 24603,
             "topics": [
               "analysis",
               "analyzer",
@@ -1298,11 +1298,11 @@
             "id": 468957086,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T06:04:20Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-22T04:47:14Z",
+            "open_issues": 35,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 11173,
+            "stars": 11176,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -1581,7 +1581,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 10245,
+            "stars": 10251,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1609,7 +1609,7 @@
             "id": 504592758,
             "language": "Python",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-21T14:55:20Z",
+            "last_commit": "2026-11-22T14:51:21Z",
             "open_issues": 0,
             "owner": "privtools",
             "repo": "ransomposts",
@@ -1743,7 +1743,7 @@
             "open_issues": 78,
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19887,
+            "stars": 19888,
             "topics": [
               "google",
               "hideandsec",
@@ -1902,7 +1902,7 @@
             "open_issues": 4,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2147,
+            "stars": 2148,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -2058,7 +2058,7 @@
             "open_issues": 421,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 24809,
+            "stars": 24847,
             "topics": [
               "attacksurface",
               "cti",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:12:57.873Z",
+    "last_updated": "2026-11-22T20:27:39.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️ ",
